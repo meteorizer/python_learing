@@ -1,0 +1,19 @@
+# Ignore Python bytecode files
+__pycache__/
+.pytest_cache/
+
+# Ignore environment-specific settings
+.env
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment
+venv/
+.venv/
+
